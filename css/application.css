@@ -1,0 +1,26 @@
+body {
+  background-color: gray;
+}
+
+main {
+  width: 760px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 5px;
+  margin: 0 auto;
+  padding: 25px;
+}
+
+.row {
+  display: block;
+}
+
+.tile {
+  border: 1px black solid;
+  border-radius: 2px;
+  width: 75px;
+  height: 75px;
+  display: inline-block;
+  font-size: 50px;
+  text-align: center;
+  vertical-align: top;
+}
